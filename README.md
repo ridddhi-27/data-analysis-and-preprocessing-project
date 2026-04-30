@@ -21,7 +21,6 @@ It covers both structured and unstructured datasets to build a strong foundation
 
 * Iris Dataset
 * Student Dataset
-* Toyota Dataset
 * Sample Text File
 
 ---
